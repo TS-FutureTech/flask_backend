@@ -1,0 +1,15 @@
+finance_app/
+│
+├── flask_backend/
+│   ├── app.py
+│   ├── templates/
+│   │   ├── index.html
+│   │   ├── add.html
+│   │   ├── view.html
+│   │   └── summary.html
+│   └── finance.db
+│
+├── streamlit_frontend/
+│   └── streamlit_app.py
+│
+└── requirements.txt
